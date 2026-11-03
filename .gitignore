@@ -1,5 +1,59 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+build/
+dist/
+*.egg-info/
+.eggs/
 
+# --- Virtual environments ---
 .venv/
 venv/
-__pycache__/
-*.pyc
+env/
+ENV/
+
+# --- Secrets & environment config (NEVER commit) ---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+secrets.json
+local_settings.py
+
+# --- Django ---
+*.log
+db.sqlite3
+db.sqlite3-journal
+*.sqlite3
+media/
+staticfiles/
+static_root/
+
+# --- Databases / dumps ---
+*.sql
+*.dump
+
+# --- Testing & coverage ---
+.coverage
+htmlcov/
+.pytest_cache/
+.tox/
+
+# --- IDEs & editors ---
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# --- OS files ---
+.DS_Store
+Thumbs.db
+
+# --- Leftover venv config from creating the venv inside the project ---
+pyvenv.cfg
+Scripts/
+Lib/
+Include/

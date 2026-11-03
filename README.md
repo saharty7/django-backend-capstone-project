@@ -154,5 +154,5 @@ Released under the [MIT License](LICENSE).
 
 ## Author
 
-**Ahmed**: Computer & AI Engineering student, Ain Shams University
-[GitHub](https://github.com/saharty7) · [LinkedIn](https://www.linkedin.com/in/your-profile)
+**Ahmed Amr Ibrahim Elsaharty**: Computer & AI Engineering student, Ain Shams University
+[GitHub](https://github.com/saharty7) · [LinkedIn](https://www.linkedin.com/in/ahmed-amr-elsaharty-942248354/)

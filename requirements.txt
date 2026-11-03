@@ -1,0 +1,7 @@
+Django>=6.1,<6.2
+djangorestframework>=3.16
+djoser>=2.3
+python-dotenv>=1.0
+
+# Only needed if you set DB_ENGINE=mysql (see .env.example):
+# mysqlclient>=2.2
